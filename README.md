@@ -1,6 +1,6 @@
 ## Projet Web
-#nom: projet vLille
-#realisée par: Salah Zakaria OUAICHOUCHE
+# nom: projet vLille
+# realisée par: Salah Zakaria OUAICHOUCHE
 			   
 
 ## Comment lancer le projet
